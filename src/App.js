@@ -137,10 +137,13 @@ import './App.css';
 import Anil from './components/Anil';
 import Najeema from './components/Najeema';
 import Sss from './components/Sss';
+// import Madhav from './components/Madhav';
+
 import "../node_modules/bootstrap/dist/css/bootstrap.css"
 
 
 import Najeema2 from './components/Najeema2';
+import Reddy from './components/Reddy';
 
 
 function App() {
@@ -153,6 +156,8 @@ function App() {
   <Najeema></Najeema>
   <Najeema2></Najeema2>
   <Anil></Anil>
+{/* <Madhav></Madhav> */}
+<Reddy></Reddy>
  
       </div>
   );
